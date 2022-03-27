@@ -11,5 +11,6 @@ public class Test {
         System.out.println("Git,hello 1");
         System.out.println("Git,hello 2");
         System.out.println("Git, hot-fix");
+        System.out.println("合并冲突 hot-fix");
     }
 }
