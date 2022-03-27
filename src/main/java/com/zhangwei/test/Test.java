@@ -13,5 +13,6 @@ public class Test {
         System.out.println("Git, hot-fix");
         System.out.println("Git 合并冲突 master");
         System.out.println("合并冲突 hot-fix");
+        //pull
     }
 }
